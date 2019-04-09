@@ -1,6 +1,6 @@
 # Test technique Le Hibou
 
-Ce test technique te permettra de décrocher le saint graal des développeurs, le poste de CTO de __Le Hibou__ :octocat:!
+Ce test technique te permettra de décrocher le saint graal des développeurs, le poste de Développeur NodeJS chez __Le Hibou__ :octocat:!
 
 ### De quoi s'agit-il ?
 
